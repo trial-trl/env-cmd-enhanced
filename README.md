@@ -7,13 +7,15 @@
 [![TS-Standard - Typescript Standard Style Guide](https://badgen.net/badge/code%20style/ts-standard/blue?icon=typescript)](https://github.com/toddbluhm/ts-standard)
 [![Dependabot badge](https://badgen.net/dependabot/toddbluhm/env-cmd?icon=dependabot)](https://dependabot.com/)
 
-# env-cmd
+# env-cmd-enhanced
+
+A enhanced fork of [env-cmd](https://github.com/toddbluhm/env-cmd).
 
 A simple node program for executing commands using an environment from an env file.
 
 ## 💾 Install
 
-`npm install env-cmd` or `npm install -g env-cmd`
+`npm install env-cmd-enhanced` or `npm install -g env-cmd-enhanced`
 
 ## ⌨️ Basic Usage
 
